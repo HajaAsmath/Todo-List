@@ -1,6 +1,7 @@
 # To-Do List
-A To-Do List app to keep track of your daily needs
-[Live Demo][https://hajaasmath.github.io/Todo-List] :point_left:
+A To-Do List app to keep track of your daily needs.
+
+[Live Demo](https://hajaasmath.github.io/Todo-List) :point_left:
 
 To Run the application
 
